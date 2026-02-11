@@ -1,8 +1,6 @@
 ## Welcome to 2KS Technologies Inc.
 
-# Open Source Technologies geared to helping us with well rounded personal and professional lives
-
-Welcome to 2KS Tech.  We are interested in open source technologies that provide building blocks for community services that enrich our personal and professional lives.
+Welcome to 2KS Tech. We are focused on open-source technologies that serve as foundational building blocks for community-driven services—tools designed to enhance and enrich both our personal and professional lives.
 
 ## 🚀 What is 2KS Tech?
 
