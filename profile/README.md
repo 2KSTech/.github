@@ -28,4 +28,5 @@ We welcome contributions from the community!
 ### 📧 Contact
 
 Have questions or suggestions? Reach out to us at [info@2kstech.com](mailto:info@2kstech.com)
-![img](https://github.com/2KSTech/.github/blob/main/email_paper_envelope.png)
+
+![img](https://github.com/2KSTech/.github/blob/main/beach-people-sea-shore-preview.jpg)
