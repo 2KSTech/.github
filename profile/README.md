@@ -13,8 +13,7 @@ We are just getting started, with our platforms for:
 
 ## 🎓 2KS Goals and Objectives
 
-### Primary Goals
-## 🤝 Get Involved
+### 🤝 Get Involved
 
 We welcome contributions from the community! 
 
@@ -24,12 +23,9 @@ We welcome contributions from the community!
 - Report issues or suggest features
 - Help with translations
 
-## 📧 Contact
+### 📧 Contact
 
 Have questions or suggestions? Reach out to us at [info@2kstech.com](mailto:info@2kstech.com)
 
 ---
-
-** Join the community is using the tools or contributing to their growth and improvement **
-
 ![img](https://github.com/2KSTech/.github/blob/main/email_paper_envelope.png)
