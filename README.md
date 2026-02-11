@@ -4,14 +4,16 @@
 
 Welcome to 2KS Tech.  We are interested in open source technologies that provide building blocks for community services that enrich our personal and professional lives.
 
-## 🚀 What is 2KS Tech?
+## 🚀 Who is 2KS Tech?
 
-2KS Tech is pursuing a set of secure, open source tools supporting the development of community platforms.  We are interested in secure building blocks supporting the pursuit of learning, communicating, and connecting entities in communitities from a healthy, forward leaning perspective.
+2KS Tech is developing a suite of secure, open-source tools designed to support the creation and growth of community platforms. We focus on building secure, modular foundations that empower communities to learn, communicate, and connect in healthy, forward-thinking ways.
 
-We are just getting started, with our platforms for:
+We are in the early stages of development, with initial platforms including:
 
-- **Secure IODC Single-Signon service**: Connecting secure authentication apps with feature rich apps like email and calendaringTest your knowledge of LinkedIn features, best practices, and professional networking strategies
-- **Upskill Studio**: Working with https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes, Upskill Studio is a test tool for interviewing and skills assessment and improvement
+**Secure IODC Single Sign-On (SSO)** A secure authentication service that connects trusted identity applications with feature-rich tools such as email and calendaring.
+
+**Upskill Studio** Built in collaboration with the open-source project https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes, Upskill Studio is a testing and assessment platform designed to support interviewing, skills evaluation, and professional development. It also helps users strengthen their knowledge of LinkedIn features, best practices, and professional networking strategies.
+
 
 ## 🎓 2KS Goals and Objectives
 
